@@ -1,5 +1,7 @@
 # Client Records Management Application
 
+Live Demo: https://ireact-practice-task.netlify.app/
+
 A React-based web application for managing client records with features like JSON file uploads, duplicate detection, pagination, searching, and CRUD operations.
 
 ## Features
