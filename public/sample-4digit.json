@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1234",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Main St, Anytown, USA",
+    "company": "ABC Corporation",
+    "notes": "Key client for the technology sector",
+    "createdAt": "2023-05-10T10:30:00.000Z",
+    "updatedAt": "2023-05-10T10:30:00.000Z"
+  },
+  {
+    "id": "5678",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+1 (555) 987-6543",
+    "address": "456 Oak Ave, Somewhere, USA",
+    "company": "XYZ Industries",
+    "notes": "Recently upgraded to premium plan",
+    "createdAt": "2023-05-11T14:20:00.000Z",
+    "updatedAt": "2023-05-11T14:20:00.000Z"
+  },
+  {
+    "id": "9012",
+    "name": "Robert Johnson",
+    "email": "robert.johnson@example.com",
+    "phone": "+1 (555) 567-8901",
+    "address": "789 Pine Rd, Elsewhere, USA",
+    "company": "Johnson & Partners",
+    "notes": "Prefers email communication",
+    "createdAt": "2023-05-12T09:15:00.000Z",
+    "updatedAt": "2023-05-12T09:15:00.000Z"
+  },
+  {
+    "id": "3456",
+    "name": "Sarah Williams",
+    "email": "sarah.williams@example.com",
+    "phone": "+1 (555) 234-5678",
+    "address": "321 Cedar Ln, Nowhere, USA",
+    "company": "Global Solutions Ltd.",
+    "notes": "Contact for billing inquiries",
+    "createdAt": "2023-05-13T16:45:00.000Z",
+    "updatedAt": "2023-05-13T16:45:00.000Z"
+  }
+] 

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Main St, Anytown, USA",
+    "company": "ABC Corporation",
+    "notes": "Key client for the technology sector"
+  },
+  {
+    "id": "c2",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+1 (555) 987-6543",
+    "address": "456 Oak Ave, Somewhere, USA",
+    "company": "XYZ Industries",
+    "notes": "Recently upgraded to premium plan"
+  },
+  {
+    "id": "c3",
+    "name": "Robert Johnson",
+    "email": "robert.johnson@example.com",
+    "phone": "+1 (555) 567-8901",
+    "address": "789 Pine Rd, Elsewhere, USA",
+    "company": "Johnson & Partners",
+    "notes": "Prefers email communication"
+  },
+  {
+    "id": "c4",
+    "name": "Sarah Williams",
+    "email": "sarah.williams@example.com",
+    "phone": "+1 (555) 234-5678",
+    "address": "321 Cedar Ln, Nowhere, USA",
+    "company": "Global Solutions Ltd.",
+    "notes": "Contact for billing inquiries"
+  },
+  {
+    "id": "c5",
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "phone": "+1 (555) 876-5432",
+    "address": "654 Maple Dr, Anywhere, USA",
+    "company": "Brown Enterprises",
+    "notes": "Started with our company in 2019"
+  },
+  {
+    "id": "c6",
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "phone": "+1 (555) 345-6789",
+    "address": "987 Birch St, Someplace, USA",
+    "company": "Davis Technologies",
+    "notes": "Has specific reporting requirements"
+  },
+  {
+    "id": "c7",
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "phone": "+1 (555) 456-7890",
+    "address": "852 Elm Ct, Othertown, USA",
+    "company": "Wilson Group",
+    "notes": "Quarterly review meetings"
+  },
+  {
+    "id": "c8",
+    "name": "Jessica Taylor",
+    "email": "jessica.taylor@example.com",
+    "phone": "+1 (555) 789-0123",
+    "address": "159 Spruce Way, Newtown, USA",
+    "company": "Taylor & Associates",
+    "notes": "Interested in new product features"
+  },
+  {
+    "id": "c9",
+    "name": "James Anderson",
+    "email": "james.anderson@example.com",
+    "phone": "+1 (555) 890-1234",
+    "address": "753 Oak Ct, Oldtown, USA",
+    "company": "Anderson Consultants",
+    "notes": "Reference client for manufacturing sector"
+  },
+  {
+    "id": "c10",
+    "name": "Jennifer Martinez",
+    "email": "jennifer.martinez@example.com",
+    "phone": "+1 (555) 901-2345",
+    "address": "426 Pine St, Sometown, USA",
+    "company": "Martinez & Co.",
+    "notes": "Monthly check-in calls scheduled"
+  },
+  {
+    "id": "c11",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "Updated address for testing duplicates",
+    "company": "New Company",
+    "notes": "This is a duplicate record that should be automatically removed"
+  },
+  {
+    "id": "c12",
+    "name": "Robert Harris",
+    "email": "robert.harris@example.com",
+    "phone": "+1 (555) 012-3456",
+    "address": "369 Maple Ave, Greentown, USA",
+    "company": "Harris Innovations",
+    "notes": "Requires detailed monthly reports"
+  }
+] 
